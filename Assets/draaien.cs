@@ -10,6 +10,7 @@ public class draaien : MonoBehaviour
     {
         Debug.Log("HELP ME MAKE IT STOP");
         Debug.Log(snelheid);
+        
     }
 
     // Update is called once per frame
@@ -27,6 +28,7 @@ public class draaien : MonoBehaviour
             } else
             {
                 Revive();
+                
             }
             
         }
